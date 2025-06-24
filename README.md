@@ -1,4 +1,4 @@
-# ROMRemote Worker Productivity
+# ROMRemote-Worker-Productivity
 This project analyzes remote worker behavior and performance using a dataset of 1,000 entries. The dashboard, built with Power BI, delivers key insights into task completion rates, tool usage, productivity scores by location and industry, and the effect of AI-assisted planning.
 ![TASK 34B](https://github.com/user-attachments/assets/b2894dda-c98c-4e41-a1bc-ca06f41fe73f)
 # Remote Worker Productivity Insights (Power BI Dashboard)
@@ -92,5 +92,3 @@ This dashboard empowers HR and operations teams with the insights needed to driv
 
 ## 📎 Resources  
 - Tool Used: Power BI
----
-
